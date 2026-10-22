@@ -1,7 +1,7 @@
 # Workshop RAG · SI3003 Inteligencia Artificial
 
-- **Nombre:** Jerónimo Castaño Herrera
-- **Usuario de GitHub:** JeronimoCH
+- **Nombre:** Emanuel González Flórez
+- **Usuario de GitHub:** EmanuelGonzalezf
 - **Fecha:** 21 de octubre de 2026
 - **Entrega a:** jipadillab@eafit.edu.co
 
@@ -35,7 +35,7 @@
 
 **Autoevaluación:** 100 / 100 puntos (núcleo 70 + retos 30 de 58 hechos: C1 15, C3 15, C4 12, C5 8, C6 8; el tope es 30).
 
-**Retos elegidos:** C1, C3, C4, C5, C6 (tope 30 puntos).
+**Retos elegidos:** C1, C3, C4, C5, C6.
 
 ## Cómo ejecutar mis notebooks
 
